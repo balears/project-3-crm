@@ -1,5 +1,6 @@
 -- MySQL dump 10.13  Distrib 8.0.23, for Win64 (x86_64)
 --
+
 -- Host: 127.0.0.1    Database: crm3
 -- ------------------------------------------------------
 -- Server version	8.0.23
@@ -18,6 +19,9 @@
 --
 -- Table structure for table `customer_follow_up_history`
 --
+
+
+
 
 DROP TABLE IF EXISTS `customer_follow_up_history`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
